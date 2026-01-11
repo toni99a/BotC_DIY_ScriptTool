@@ -228,7 +228,7 @@
     "EnglishOriginalRoleName": "Mathematician",
     "RoleName": "Mathematiker",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/f/f1/Icon_mathematician.png",
-    "RoleAbilityText": "Jede Nacht erf\u00E4hrst du, bei wie vielen Spielern die F\u00E4higkeit (seit dem Morgen) wegen der F\u00E4higkeit eines anderenCharakter fehlerhaft gearbeitet hat.",
+    "RoleAbilityText": "Jede Nacht erf\u00E4hrst du, bei wie vielen Spielern die F\u00E4higkeit (seit dem Morgen) wegen der F\u00E4higkeit eines anderen Charakter fehlerhaft gearbeitet hat.",
     "FirstNight": "Gib ein Fingerzeichen.",
     "OtherNights": "Gib ein Fingerzeichen.",
     "RoleType": 0
@@ -579,7 +579,7 @@
     "EnglishOriginalRoleName": "Godfather",
     "RoleName": "Pate",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png",
-    "RoleAbilityText": "Du wei\u00DFt zu Beginn, welche AU\u00DFenseiter im Spiel sind. Falls 1 Au\u00DFenseiter heute starb, w\u00E4hle heute Nacht 1 Spieler: Er stirbt. [-1 oder \u002B1 Au\u00DFenseiter]",
+    "RoleAbilityText": "Du wei\u00DFt zu Beginn, welche Au\u00DFenseiter im Spiel sind. Falls 1 Au\u00DFenseiter heute starb, w\u00E4hle heute Nacht 1 Spieler: Er stirbt. [-1 oder \u002B1 Au\u00DFenseiter]",
     "FirstNight": "Zeige die Charakterpl\u00E4ttchen aller Au\u00DFenseiter, die im Spiel sind.",
     "OtherNights": "Falls heute ein Au\u00DFenseiter gestorben ist, w\u00E4hlt der Pate einen Spieler.",
     "RoleType": 2
@@ -685,9 +685,9 @@
   },
   {
     "EnglishOriginalRoleName": "Lil\u0027 Monsta",
-    "RoleName": "Monsterbaby",
+    "RoleName": "Lil\u0027 Monsta",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_lilmonsta.png",
-    "RoleAbilityText": "Jede Nacht w\u00E4hlen die Schergen, wer das Monsterbaby h\u00FCtet \u0026 \u00ABder D\u00E4mon\u00BB ist. Jede Nacht* k\u00F6nnte 1 Spieler sterben. [\u002B1 Scherge] ",
+    "RoleAbilityText": "Jede Nacht w\u00E4hlen die Schergen, wer Lil\u0027 Monsta babysittet \u0026 \u00ABder D\u00E4mon\u00BB ist. Jede Nacht* k\u00F6nnte 1 Spieler sterben. [\u002B1 Scherge] ",
     "FirstNight": "Wecke alle Minions. Erlaube ihnen, einen Babysitter zu w\u00E4hlen.",
     "OtherNights": "Wecke alle Minions. Erlaube ihnen, einen Babysitter zu w\u00E4hlen. Ein Spieler stirbt m\u00F6glicherweise.",
     "RoleType": 3
@@ -1084,8 +1084,8 @@
     "RoleName": "J\u00E4ger",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_huntsman.png",
     "RoleAbilityText": "Einmal im Spiel, in der Nacht, w\u00E4hle 1 lebendigen Spieler: Falls er die Unschuld ist, wird er zu einem nicht im Spiel befindlichen B\u00FCrger. [\u002BUnschuld] ",
-    "FirstNight": "Der J\u00E4ger w\u00E4hlt m\u00F6glicherweise einen Spieler. Wenn der Spieler die Damsel war: Lasse den J\u00E4ger einschlafen. Wecke die Damsel und zeige ihr das DU BIST Pl\u00E4ttchen und ihr Charakterpl\u00E4ttchen.",
-    "OtherNights": "Der J\u00E4ger w\u00E4hlt m\u00F6glicherweise einen Spieler. Wenn der Spieler die Damsel war: Lasse den J\u00E4ger einschlafen. Wecke die Damsel und zeige ihr das DU BIST Pl\u00E4ttchen und ihr Charakterpl\u00E4ttchen.",
+    "FirstNight": "Der J\u00E4ger w\u00E4hlt m\u00F6glicherweise einen Spieler. Wenn der Spieler die Unschuld war: Lasse den J\u00E4ger einschlafen. Wecke die Unschuld und zeige ihr das DU BIST Pl\u00E4ttchen und ihr Charakterpl\u00E4ttchen.",
+    "OtherNights": "Der J\u00E4ger w\u00E4hlt m\u00F6glicherweise einen Spieler. Wenn der Spieler die Unschuld war: Lasse den J\u00E4ger einschlafen. Wecke die Unschuld und zeige ihr das DU BIST Pl\u00E4ttchen und ihr Charakterpl\u00E4ttchen.",
     "RoleType": 0
   },
   {
