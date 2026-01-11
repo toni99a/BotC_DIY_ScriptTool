@@ -982,11 +982,11 @@
   },
   {
     "EnglishOriginalRoleName": "Balloonist",
-    "RoleName": "Ballonk\u00FCnstler",
+    "RoleName": "Ballonfahrer",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_balloonist.png",
     "RoleAbilityText": "Jede Nacht erf\u00E4hrst du 1 Spieler eines anderen Charaktertyps als in der Nacht zuvor. [\u002B0 oder \u002B1 Au\u00DFenseiter] ",
     "FirstNight": "Zeige irgendeinen Spieler.",
-    "OtherNights": "Zeige einen Spieler mit einem anderen Charaktertyp als in den vorherigen N\u00E4chten.",
+    "OtherNights": "Zeige einen Spieler mit einem anderen Charaktertyp als in der vorherigen Nacht.",
     "RoleType": 0
   },
   {
