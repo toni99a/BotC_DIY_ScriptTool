@@ -847,11 +847,11 @@
   },
   {
     "EnglishOriginalRoleName": "Damsel",
-    "RoleName": "Demoiselle",
+    "RoleName": "Unschuld",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_damsel.png",
     "RoleAbilityText": "Alle Schergen wissen, dass eine Unschuld im Spiel ist. Falls ein Scherge \u00F6ffentlich err\u00E4t (einmalig), wer du bist, verliert dein Team.",
-    "FirstNight": "Wenn die Demoiselle vom J\u00E4ger gew\u00E4hlt wurde, zeige ihr das DU BIST Pl\u00E4ttchen und ihr neues Charakterpl\u00E4ttchen.",
-    "OtherNights": "Wenn die Demoiselle vom J\u00E4ger gew\u00E4hlt wurde, zeige ihr das DU BIST Pl\u00E4ttchen und ihr neues Charakterpl\u00E4ttchen.",
+    "FirstNight": "Wenn die Unschuld vom J\u00E4ger gew\u00E4hlt wurde, zeige ihr das DU BIST Pl\u00E4ttchen und ihr neues Charakterpl\u00E4ttchen.",
+    "OtherNights": "Wenn die Unschuld vom J\u00E4ger gew\u00E4hlt wurde, zeige ihr das DU BIST Pl\u00E4ttchen und ihr neues Charakterpl\u00E4ttchen.",
     "RoleType": 1
   },
   {
