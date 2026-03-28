@@ -1,0 +1,32 @@
+{
+  "Roles": [
+    "Die Adeligen",
+    "Die Waschstra\u00DFe",
+    "Die B\u00FCcherw\u00FCrmer",
+    "Die Uhrzeiger",
+    "Die Einf\u00FChlsamen",
+    "Die Tr\u00E4umenden",
+    "Die Wahrsagenden",
+    "Die Seance",
+    "Die Gl\u00E4ubigen",
+    "Die Rabenfreunde",
+    "Die Bediensteten",
+    "Die Verwirrten",
+    "Die Zur\u00FCckgezogenen",
+    "Die Lieblinge",
+    "Die Giftigen",
+    "Die Spitzel",
+    "Die kleinen Monster",
+    "Der Wer-Shop",
+    "Die Nachtwache",
+    "Der Knall-Bumm-Shop",
+    "Die Teddies",
+    "Die Kunstschaffenden"
+  ],
+  "NightOrder": {
+    "FirstNight": [],
+    "OtherNights": []
+  },
+  "ScriptName": "Das gro\u00DFe JMC Werwolf",
+  "ScriptAuthor": "Toni"
+}

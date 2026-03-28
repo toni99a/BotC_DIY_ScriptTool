@@ -703,11 +703,11 @@
   },
   {
     "EnglishOriginalRoleName": "Lord of Typhon",
-    "RoleName": "Herr über Typhon",
+    "RoleName": "Herr \u00FCber Typhon",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png",
     "RoleAbilityText": "W\u00E4hle jede Nacht* 1 Spieler: Er stirbt. [B\u00F6se Spieler sitzen in einer Reihe. Du bist in der Mitte. \u002B1 Scherge. -? bis \u002B? Au\u00DFenseiter] ",
-    "FirstNight": "Ersetzte die Nachbarn des Herrn über Typhon mit Schergen und wecke sie auf. Verrate ihnen ihre neue Teamzugeh\u00F6rigkeit und Charaktere, dann handle die Schergen Info ab.",
-    "OtherNights": "Der Herr über Typhon w\u00E4hlt einen Spieler.",
+    "FirstNight": "Ersetzte die Nachbarn des Herrn \u00FCber Typhon mit Schergen und wecke sie auf. Verrate ihnen ihre neue Teamzugeh\u00F6rigkeit und Charaktere, dann handle die Schergen Info ab.",
+    "OtherNights": "Der Herr \u00FCber Typhon w\u00E4hlt einen Spieler.",
     "RoleType": 3
   },
   {
@@ -739,7 +739,7 @@
   },
   {
     "EnglishOriginalRoleName": "Boomdandy",
-    "RoleName": "Sprüh-Sprüh-Knall-Bumm-Mann",
+    "RoleName": "Spr\u00FCh-Spr\u00FCh-Knall-Bumm-Mann",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png",
     "RoleAbilityText": "Falls du hingerichtet wirst, sterben alle bis auf 3 Spieler. Nach einem Countdown von 10 abw\u00E4rts stirbt derjenige, auf den die meisten Spieler zeigen.",
     "FirstNight": "",
@@ -1153,11 +1153,11 @@
   },
   {
     "EnglishOriginalRoleName": "Poppy Grower",
-    "RoleName": "Mohnzüchter",
+    "RoleName": "Mohnz\u00FCchter",
     "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/9/91/Icon_poppygrower.png",
     "RoleAbilityText": "Schergen \u0026 D\u00E4monen kennen einander nicht. Falls du stirbst, erfahren sie in dieser Nacht, wer die anderen sind.",
     "FirstNight": "F\u00FChre die Schergen Info und D\u00E4mon Info Schritte nicht aus. Wecke den D\u00E4mon. Zeige das DIESE CHARAKTERE SIND NICHT IM SPIEL Pl\u00E4ttchen. Zeige 3 nicht im Spiel befindliche gute Charakterpl\u00E4ttchen.",
-    "OtherNights": "Falls der Mohnzüchter heute oder heute Nacht gestorben ist, wecke die Schergen, zeige das DIES IST DER D\u00C4MON Pl\u00E4ttchen. Zeige auf den D\u00E4mon. Lasse sie einschlafen. Wecke den D\u00E4mon, zeige ihm das DIES SIND DEINE SCHERGEN Pl\u00E4ttchen. Zeige auf alle Schergen. Lasse den D\u00E4mon einschlafen.",
+    "OtherNights": "Falls der Mohnz\u00FCchter heute oder heute Nacht gestorben ist, wecke die Schergen, zeige das DIES IST DER D\u00C4MON Pl\u00E4ttchen. Zeige auf den D\u00E4mon. Lasse sie einschlafen. Wecke den D\u00E4mon, zeige ihm das DIES SIND DEINE SCHERGEN Pl\u00E4ttchen. Zeige auf alle Schergen. Lasse den D\u00E4mon einschlafen.",
     "RoleType": 0
   },
   {
@@ -1546,5 +1546,212 @@
     "FirstNight": "",
     "OtherNights": "",
     "RoleType": 4
+  },
+  {
+    "EnglishOriginalRoleName": "noble",
+    "RoleName": "Die Adeligen",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/c/cc/Icon_noble.png",
+    "RoleAbilityText": "Kriegt zu Beginn 3 Workshops genannt. 2 davon sind gut und einer b\u00F6se.",
+    "FirstNight": "Nenne den Adeligen zwei gute und einen b\u00F6sen Workshop.",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "grandmother",
+    "RoleName": "Die Gro\u00DFeltern",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_grandmother.png",
+    "RoleAbilityText": "Kriegt zu Beginn den Charakter eines guten Workshops genannt, den Enkel. Wenn der Enkel vom Wer-shop get\u00F6tet werden, sterben die Gro\u00DFeltern auch.",
+    "FirstNight": "Nennt den Gro\u00DFeltern die Enkel und deren Charakter.",
+    "OtherNights": "Wenn die Enkel vom Wer-shop get\u00F6tet werden, sterben die Gro\u00DFeltern auch.",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "washerwoman",
+    "RoleName": "Die Waschstra\u00DFe",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/8/85/Icon_washerwoman.png",
+    "RoleAbilityText": "Kriegt zu Beginn zwei Workshops und einen hilfreichen Charakter genannt. Einer der beiden Workshops ist jener Charakter.",
+    "FirstNight": "Nenne der Waschstra\u00DFe zwei Workshops und einen Charakter.",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "librarian",
+    "RoleName": "Die B\u00FCcherw\u00FCrmer",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_librarian.png",
+    "RoleAbilityText": "Kriegt zu Beginn zwei Workshops und einen hilflosen Charakter genannt. Einer der beiden Workshops ist jener Charakter.",
+    "FirstNight": "Nenne zwei Workshops und einen Break-Shop",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "clockmaker",
+    "RoleName": "Die Uhrzeiger",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/3/3d/Icon_clockmaker.png",
+    "RoleAbilityText": "Erf\u00E4hrt zu Beginn, ob der am n\u00E4chsten gelegene b\u00F6se Workshop im oder gegen den Uhrzeigersinn aufgestellt ist.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "empath",
+    "RoleName": "Die Einf\u00FChlsamen",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_empath.png",
+    "RoleAbilityText": "Erfahrt jeden WS-Block, wie viele der beiden lebenden benachbarten Workshops b\u00F6se sind.",
+    "FirstNight": "Sag welche beiden Workshops die Nachbarn sind und wie viele davon b\u00F6se sind",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "dreamer",
+    "RoleName": "Die Tr\u00E4umenden",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_dreamer.png",
+    "RoleAbilityText": "Kriegt jeden WS-Block f\u00FCr einen beliebigen Workshop einen b\u00F6sen und einen guten Charakter genannt. Einer von beiden stimmt.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "fortuneteller",
+    "RoleName": "Die Wahrsagenden",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/9/97/Icon_fortuneteller.png",
+    "RoleAbilityText": "W\u00E4hlt jeden WS-Block 2 Workshops und erf\u00E4hrt, ob einer der Wer-Shop ist. Ein guter Workshop erscheint f\u00E4lschlicherweise als Wer-Shop.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "sage",
+    "RoleName": "Die Seance",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/a/a0/Icon_sage.png",
+    "RoleAbilityText": "Erf\u00E4hrt jeden WS-Block den Charakter des zuletzt hingerichteten Workshops.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "monk",
+    "RoleName": "Die Gl\u00E4ubigen",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/7/7c/Icon_monk.png",
+    "RoleAbilityText": "Besch\u00FCtzt jeden WS-Block einen beliebigen Workshop vor dem Wer-Shop.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "ravenkeeper",
+    "RoleName": "Die Rabenfreunde",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_ravenkeeper.png",
+    "RoleAbilityText": "Sterben die Rabenfreunde w\u00E4hrend des WS-Blocks, erfahren sie den Charakter eines beliebigen Workshops.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "pixie",
+    "RoleName": "Die Teddies",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png",
+    "RoleAbilityText": "Der erste Workshop, der die Teddies nominiert, wird falls er gut ist sofort hingerichtet. Es wird niemand sonst hingerichtet.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "butler",
+    "RoleName": "Die Bediensteten",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_butler.png",
+    "RoleAbilityText": "W\u00E4hlt jeden WS-Block einen Workshop. Darf nur f\u00FCr Nominierte stimmen, f\u00FCr die jener Workshop auch gestimmt hat.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 1
+  },
+  {
+    "EnglishOriginalRoleName": "amnesiac",
+    "RoleName": "Die Verwirrten",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_amnesiac.png",
+    "RoleAbilityText": "Denken, dass sie ein hilfreicher Workshop sind, aber sind verwirrt. Das hei\u00DFt, dass die F\u00E4higkeit nicht richtig funktioniert.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 1
+  },
+  {
+    "EnglishOriginalRoleName": "recluse",
+    "RoleName": "Die Zur\u00FCckgezogenen",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_recluse.png",
+    "RoleAbilityText": "Erscheint f\u00FCr andere F\u00E4higkeiten vielleicht als ein b\u00F6ser Charakter, auch nach dem Tod.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 1
+  },
+  {
+    "EnglishOriginalRoleName": "sweetheart",
+    "RoleName": "Die Lieblinge",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png",
+    "RoleAbilityText": "Wenn die Lieblinge sterben, ist ein Workshop von nun an verwirrt.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 1
+  },
+  {
+    "EnglishOriginalRoleName": "poisoner",
+    "RoleName": "Die Giftigen",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png",
+    "RoleAbilityText": "Vergiftet jeden WS-Block einen beliebigen Workshop. Der Workshop ist bis zum n\u00E4chsten WS-Block verwirrt.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 2
+  },
+  {
+    "EnglishOriginalRoleName": "spy",
+    "RoleName": "Die Spitzel",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_spy.png",
+    "RoleAbilityText": "Erf\u00E4hrt zu Beginn die Charaktere aller Workshops. Wird vielleicht von anderen F\u00E4higkeiten als guter Charakter erkannt, auch nach dem Tod.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 2
+  },
+  {
+    "EnglishOriginalRoleName": "lilmonsta",
+    "RoleName": "Die kleinen Monster",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_lilmonsta.png",
+    "RoleAbilityText": "Wenn der Wer-Shop schon am Wochenende stirbt, werden die kleinen Monster zum neuen Wer-Shop.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 2
+  },
+  {
+    "EnglishOriginalRoleName": "shabaloth",
+    "RoleName": "Der Wer-Shop",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/1/1f/Icon_shabaloth.png",
+    "RoleAbilityText": "W\u00E4hlt jeden WS-Block einen Workshop, der stirbt. W\u00E4hlt der Wer-Shop sich selbst, wird ein anderer b\u00F6ser Workshop zum Wer-Shop.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 3
+  },
+  {
+    "EnglishOriginalRoleName": "nightwatchman",
+    "RoleName": "Die Nachtwache",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/f/f0/Icon_nightwatchman.png",
+    "RoleAbilityText": "W\u00E4hlt einmal w\u00E4hrend des Camps einen anderen Workshop. Dieser erf\u00E4hrt, wer die Nachtwache ist.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "artist",
+    "RoleName": "Die Kunstschaffenden",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_artist.png",
+    "RoleAbilityText": "Stellt einmal w\u00E4hrend des Camps im Geheimen an Toni eine Ja/Nein-Frage.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 0
+  },
+  {
+    "EnglishOriginalRoleName": "boomdandy",
+    "RoleName": "Der Knall-Bumm-Shop",
+    "RoleIconURL": "https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png",
+    "RoleAbilityText": "W\u00E4hlt direkt nach dem Tod einen weiteren Workshop, der stirbt.",
+    "FirstNight": "",
+    "OtherNights": "",
+    "RoleType": 2
   }
 ]
